@@ -85,4 +85,5 @@ router.delete('/:id', async(req, res)=>{
            }
 })
 
+// comment added to better understand the code snippet
 module.exports = router;
